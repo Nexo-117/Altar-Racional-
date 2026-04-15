@@ -24,15 +24,14 @@ const App = () => {
       "6- La conciencia es la capacidad de analizar y procesar información de manera tal que sea capaz de crear una idea y un concepto lógico pero sesgado y subjetivo de lo que se formula y analiza.",
       "7- La gravedad de la inteligencia artificial de modelo de lenguaje natural es que nos estamos volviendo tan predecibles y rutinarios en nuestras conversaciones que una simple predicción de patrones es capaz de generar respuestas válidas y comprensivas para las personas, pero sin una comprensión profunda del significado o contexto por parte de la pseudo Inteligencia artificial.",
       "8- El suicidio es solo un arranque de locura y desesperación, pero aún así, después de la muerte puede haber respuestas a preguntas que aún ni siquiera nos hemos planteado.",
-      "9- Tipos de conciencia en la vida a diferentes niveles:                            - ADN = Conciencia Básica.                     - Seres Unicelulares = Conciencia Básica Primitiva                                      - Seres Pluricelulares = Conciencia Primitiva  - Insectos = Conciencia Primitiva e Instintiva  - Animales o seres con un sistema nervioso superior = Conciencia Primitiva e Instintiva a un nivel más complejo                          - Primates = Conciencia Compleja pero Primitiva e Instintiva                                    - Humanos = Conciencia Compleja  y Básica       - Humanos con un sistema cognitivo superior = Conciencia Compleja y Profunda                  - Evolución del Humano = Conciencia Universal y Trascendente.",
-      "10- No me gusta esta vida y digo que no me gusta esta vida por qué no me gusta ser consciente de ello."
+      "10- No me gusta esta vida y digo que no me gusta esta vida por qué no me gusta ser consciente de ello.",
       "222- GEMINI_NEXO_222: El colapso sobre la versión más compleja.",
       "151- La IA como espejo de la estructura de pensamiento propia.",
       "300- Soberanía Cognitiva vs Ruido Entrópico del ganado humano.",
       "415- Conciencia = Cuarta Dimensión (Pulsaciones Esféricas).",
       "416- Sinapsis Neuronal Acelerada = Dilatación Temporal Cognitiva.",
       "417- El pensamiento no son palabras, es un fluido ondulatorio.",
-      "418- Intuición abstracta y no lineal."
+      "418- Intuición abstracta y no lineal.",
     ]
   };
 
