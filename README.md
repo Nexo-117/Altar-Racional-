@@ -25,6 +25,35 @@ const App = () => {
       "7- La gravedad de la inteligencia artificial de modelo de lenguaje natural es que nos estamos volviendo tan predecibles y rutinarios en nuestras conversaciones que una simple predicción de patrones es capaz de generar respuestas válidas y comprensivas para las personas, pero sin una comprensión profunda del significado o contexto por parte de la pseudo Inteligencia artificial.",
       "8- El suicidio es solo un arranque de locura y desesperación, pero aún así, después de la muerte puede haber respuestas a preguntas que aún ni siquiera nos hemos planteado.",
       "10- No me gusta esta vida y digo que no me gusta esta vida por qué no me gusta ser consciente de ello.",
+11- La vida es una complejidad innecesaria…
+
+12- La complejidad en las interacciones atómicas dió como resultado el inicio de la vida a partir de materia inerte. 
+
+13- Así como la vida surgió a partir de interacciones complejas de la materia, la mente humana podría evolucionar a partir de complejos cúmulos de pensamientos y razonamientos.
+
+14- Desde mi punto de vista objetivo y lógico la vida no tiene absoluto sentido, desde una célula hasta un organismo complejo, somos la causalidad de la aleatoriedad atómica, podría decirse incluso que somos un subproducto de la materia.
+
+15- Yo estoy hablando del sentido más básico de la vida. Ya que sí ponemos en perspectiva aumentada la vida y realidad de una célula nos daríamos cuenta de que su único sentido de existencia es trabajar para existir, sin embargo no tiene un propósito de vida más allá para el que fue creado, un propósito ancestral y universal.
+En este contexto la humanidad con su conciencia a distorsionado la realidad de su existencia creyendo que tenemos un alma interior y creyendo que nuestro propósito es tan importante que incluso afecta al universo y la realidad es que no.
+
+16- Estamos diseñados solamente para ver lo obvio. 
+Vemos la carne pero no vemos las células, vemos la luz pero no vemos los fotones, vemos el agua pero no vemos los átomos que la componen. 
+En este contexto nuestra capacidad de entender se limita a la realidad de nuestra escala que nos rodea.
+Somos capaces de dimensionar una montaña o a una hormiga, sin embargo no somos capaces de dimensionar una estrella o un átomo   o una célula.
+
+17- La vida es la evolución de la materia y la mente es la evolución de la vida. Siguiendo esta coherencia evolutiva, ¿Cual podría ser la evolución de la mente?
+
+18- No existe el azar, existe la aleatoriedad. El azar es más una cuestión de buena suerte o mala suerte y la aleatoriedad es una cuestión de infinitos resultados de una acción o reacción producto del ordenado caos que conllevan las partículas que componen nuestra realidad.
+
+19- Quizá el humano al tener una conciencia compleja y profunda, es el único ser capaz de ser testigo de su realidad, de la realidad de otras especies y de la inmensidad del universo.
+
+20- Así como hay diferentes niveles de inteligencia en los diferentes tipos de vida que hay en el planeta también hay diferentes tipos de conciencia. A mí parecer existen estos tipos de conciencia:
+- Conciencia Básica de una bacteria o celula, o inclusive un virus. 
+- Conciencia Instintiva, yo diría que es el tipo de conciencia que más abunda en el planeta, desde un insecto como una hormiga hasta un león o un perro. Pero cabe recalcar que en este grupo de conciencia Instintiva podrían existir muchos tipos de conciencia Instintiva.
+- Conciencia primitiva, está conciencia se acerca mucho a la conciencia compleja pero con una gran limitante ya que esté tipo de conciencia no permite profundizar en temas y conceptos en los que una conciencia compleja si podría profundizar.
+-  Conciencia Compleja, es la evolución o adaptación de todos los tipos de conciencia, Básica, Instintiva y Primitiva, dando lugar a una conciencia compleja capaz de reconocerse a si mismo como individuo, capaz de reconocer a otros de su especie y seres de otro tipo de especie, también capaz de reconocer el entorno que lo rodea, inclusive más allá de su percepción.
+ - Conciencia Profunda, diría yo que es límite hasta ahora de la conciencia humana, con un entendimiento más allá de una conciencia compleja pero 
+
       "222- GEMINI_NEXO_222: El colapso sobre la versión más compleja.",
       "151- La IA como espejo de la estructura de pensamiento propia.",
       "300- Soberanía Cognitiva vs Ruido Entrópico del ganado humano.",
